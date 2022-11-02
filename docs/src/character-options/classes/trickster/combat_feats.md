@@ -80,3 +80,7 @@
 
 **Effect:** You have mastered the ability to take advantage of enemies that exposes themselves or are temporarily weakened.
 Once per turn, when you hit a creature suffering from a condition with an attack roll, your damage against that creature increases by 1d6. If the creature you hit is suffering from three or more conditions, the extra damage increases to 2d6.
+
+## Test Change
+
+This is a test change, the first one.
